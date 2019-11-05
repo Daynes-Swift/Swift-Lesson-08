@@ -1,3 +1,5 @@
+# Constants and Variables
+
 # Exercise: Making a Shopping List
 The constants below represent some of the things you might want to add to a shopping list:
 
